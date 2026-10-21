@@ -1,0 +1,42 @@
+1
+===Bertrand Russell===
+
+
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1944, 'title': 'Autobiography'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1945, 'title': 'A History of Western Philosophy'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1900, 'title': 'The Problems of Philosophy'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1927, 'title': 'Why I am not a Christian'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1949, 'title': 'Authority and the Individual'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1923, 'title': 'The ABC of atoms'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1910, 'title': 'Philosophical essays'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1930, 'title': 'The conquest of happiness'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1918, 'title': 'Roads to Freedom'}
+{'author_name': ['Bertrand Russell'], 'first_publish_year': 1921, 'title': 'The analysis of mind'}
+2
+===John Locke===
+
+
+{'author_name': ['John Locke'], 'first_publish_year': 1689, 'title': 'Essay concerning human understanding'}
+{'author_name': ['John Locke'], 'first_publish_year': 1714, 'title': 'The works of John Locke'}
+{'author_name': ['Maurice Cranston'], 'first_publish_year': 1957, 'title': 'John Locke'}
+{'author_name': ['John Locke'], 'first_publish_year': 1693, 'title': 'Some thoughts concerning education'}
+{'author_name': ['John Locke'], 'first_publish_year': 1691, 'title': 'Essay concerning the true original extent and end of civil government'}
+{'author_name': ['John Locke', 'Ian Shapiro', 'Lee Ward'], 'first_publish_year': 1689, 'title': 'Two Treatises on Government'}
+{'author_name': ['John Scalzi'], 'first_publish_year': 2001, 'title': 'Lock In: A Novel of the Near Future (Lock In Series Book 1)'}
+{'author_name': ['John Locke'], 'first_publish_year': 1781, 'title': 'The conduct of the understanding'}
+{'author_name': ['John Locke'], 'first_publish_year': 1956, 'title': 'The Second Treatise on Civil Government (Great Books in Philosophy)'}
+{'author_name': ['John Locke'], 'first_publish_year': 1954, 'title': 'Essays on the law of nature'}
+3
+===Martin Heidegger===
+
+
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1927, 'title': 'Sein und Zeit'}
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1961, 'title': 'Nietzsche'}
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1959, 'title': 'Gelassenheit'}
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1959, 'title': 'Unterwegs zur Sprache'}
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1954, 'title': 'Was heisst Denken?'}
+{'author_name': ['Martin Heidegger', 'Gregory Fried', 'Richard Polt'], 'first_publish_year': 1953, 'title': 'Introduction to metaphysics'}
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1956, 'title': 'Was ist das -- die Philosophie'}
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1956, 'title': 'Zur Seinsfrage'}
+{'author_name': ['Martin Heidegger'], 'first_publish_year': 1969, 'title': 'The essence of reasons'}
+{'author_name': ['Elzbieta Ettinger', 'Elżbieta Ettinger'], 'first_publish_year': 1995, 'title': 'Hannah Arendt, Martin Heidegger'}

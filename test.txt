@@ -1,0 +1,4 @@
+[{'author_key': ['OL7624639A'], 'author_name': ['Esquilo , Fernando Segundo Brieva Salvatierra Aeschylus'], 'title': 'Las siete tragedias de eschylo: Puestas del griego en lengua castellana 1883 [Leather Bound]'}]
+("0, {'author_key': ['OL7624639A'], 'author_name': ['Esquilo , Fernando "
+ "Segundo Brieva Salvatierra Aeschylus'], 'title': 'Las siete tragedias de "
+ "eschylo: Puestas del griego en lengua castellana 1883 [Leather Bound]'}")
